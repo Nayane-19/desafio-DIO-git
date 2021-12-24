@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #010506;
+}
+
+#about {
+    width: 50%;
+    background-color: #eeee;
+    padding: 10px 40px;
+}
+
+#about nav {
+    height: 4vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#about nav a {
+    text-decoration: none;
+    color: #010506;
+}
+
+.welcome {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: inherit;
+    justify-content: center;
+}
+
+.welcome p {
+    line-height: 25px;
+    text-align: justify;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin: 25px 0;
+}
