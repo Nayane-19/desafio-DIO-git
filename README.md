@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Git/Github DIO - Bootcamp Front-End Inter</h1>
 
-<h2 align="center">Home</h2>
+<h2 align="center">Home - Pagina Apresentação Nayane</h2>
 <p align="center"><img src="./assets/preview.png"/></p>
 
 ## Ícones para commits padrão
